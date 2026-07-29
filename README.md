@@ -1,6 +1,6 @@
 ## Reg No:25012132
 ## Name: Tarakesh S
-## Aim:
+# Aim:
 To create an Amazon Web Services (AWS) account and explore the AWS Management Console and its major cloud services.
 # Objective
 After completing this experiment, students should be able to:
@@ -28,14 +28,14 @@ Advantages
 •	Reliable 
 •	Global availability 
 •	Cost effective 
-#Software Requirements
+## Software Requirements
 •	Windows 10/11 
 •	Google Chrome or Microsoft Edge 
 •	Internet Connection 
 •	Email ID 
 •	Mobile Number 
 •	Debit/Credit Card (required for AWS account verification, even for Free Tier) 
-#Procedure
+## Procedure
 ```
 Step 1
 Open your browser.
@@ -82,7 +82,7 @@ Example:
 •	S3 
 •	Lambda 
 
-# Services Menu
+## Services Menu
 Contains all AWS services grouped into categories.
 Examples:
 Compute
@@ -114,39 +114,39 @@ Region Selection Example:
   US East (N. Virginia)
   Students should understand that resources are created within a selected AWS Region.
 
-# Billing Dashboard Displays:
+## Billing Dashboard Displays:
 •	Usage 
 •	Estimated Cost 
 •	Free Tier Usage 
 
-# Account Settings Contains:
+## Account Settings Contains:
 •	Profile 
 •	Security Credentials 
 •	MFA 
 •	Password Settings 
 
-## Services to Explore
+# Services to Explore
 Students should open each service briefly.
-# EC2
+## EC2
 Virtual servers in the cloud.
-# S3
+## S3
 Cloud object storage.
-# IAM
+## IAM
 User and permission management.
 
-# VPC
+## VPC
 Virtual private network for AWS resources.
 
-# RDS
+## RDS
 Managed relational database service.
 
-# Lambda
+## Lambda
 Run code without managing servers.
 
-# CloudWatch
+## CloudWatch
 Monitoring and logging service.
 
-# SNS
+## SNS
 Notification service.
 
 ## Expected Output
