@@ -75,14 +75,14 @@ You will see the AWS Management Console.
 
 ## AWS Console Overview
 Students should become familiar with these sections:
-Search Bar
+# Search Bar
 Used to search AWS services quickly.
 Example:
 •	EC2 
 •	S3 
 •	Lambda 
 
-Services Menu
+# Services Menu
 Contains all AWS services grouped into categories.
 Examples:
 Compute
@@ -108,52 +108,49 @@ Analytics
 Machine Learning
 •	SageMaker 
 
-Region Selection
-Example:
-Mumbai
-Singapore
-US East (N. Virginia)
-Students should understand that resources are created within a selected AWS Region.
+Region Selection Example:
+  Mumbai
+  Singapore
+  US East (N. Virginia)
+  Students should understand that resources are created within a selected AWS Region.
 
-Billing Dashboard
-Displays:
+# Billing Dashboard Displays:
 •	Usage 
 •	Estimated Cost 
 •	Free Tier Usage 
 
-Account Settings
-Contains
+# Account Settings Contains:
 •	Profile 
 •	Security Credentials 
 •	MFA 
 •	Password Settings 
 
-Services to Explore
+## Services to Explore
 Students should open each service briefly.
-EC2
+# EC2
 Virtual servers in the cloud.
-S3
+# S3
 Cloud object storage.
-IAM
+# IAM
 User and permission management.
 
-VPC
+# VPC
 Virtual private network for AWS resources.
 
-RDS
+# RDS
 Managed relational database service.
 
-Lambda
+# Lambda
 Run code without managing servers.
 
-CloudWatch
+# CloudWatch
 Monitoring and logging service.
 
-SNS
+# SNS
 Notification service.
 
 ## Expected Output
 <img width="753" height="612" alt="Exp1 a" src="https://github.com/user-attachments/assets/34f8c6ea-e30e-4413-a2ef-21647320973e" />
 
-Result
+## Result
 Thus, the AWS account was created successfully, and the AWS Management Console and major cloud services were explored
