@@ -73,9 +73,9 @@ Login to the AWS Console.
 You will see the AWS Management Console.
 ```
 
-## AWS Console Overview
+# AWS Console Overview
 Students should become familiar with these sections:
-# Search Bar
+## Search Bar
 Used to search AWS services quickly.
 Example:
 •	EC2 
@@ -149,7 +149,7 @@ Monitoring and logging service.
 ## SNS
 Notification service.
 
-## Expected Output
+# Expected Output
 <img width="753" height="612" alt="Exp1 a" src="https://github.com/user-attachments/assets/34f8c6ea-e30e-4413-a2ef-21647320973e" />
 
 ## Result
