@@ -1,6 +1,6 @@
 ##Reg No:25012132
 ##Name: Tarakesh S
-##Aim
+##Aim:
 To create an Amazon Web Services (AWS) account and explore the AWS Management Console and its major cloud services.
 #Objective
 After completing this experiment, students should be able to:
