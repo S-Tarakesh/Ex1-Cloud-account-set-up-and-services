@@ -1,15 +1,15 @@
-##Reg No:25012132
-##Name: Tarakesh S
-##Aim:
+## Reg No:25012132
+## Name: Tarakesh S
+## Aim:
 To create an Amazon Web Services (AWS) account and explore the AWS Management Console and its major cloud services.
-#Objective
+# Objective
 After completing this experiment, students should be able to:
 •	Understand AWS Cloud. 
 •	Create an AWS account. 
 •	Sign in to the AWS Management Console. 
 •	Identify major AWS services. 
 •	Navigate through the AWS Dashboard. 
-#Introduction (Theory)
+# Introduction (Theory)
 Amazon Web Services (AWS) is the world's leading cloud computing platform developed by Amazon. Instead of purchasing expensive servers, organizations can rent computing resources over the internet.
 AWS provides more than 200 cloud services, including:
 •	Computing 
@@ -36,7 +36,8 @@ Advantages
 •	Mobile Number 
 •	Debit/Credit Card (required for AWS account verification, even for Free Tier) 
 #Procedure
-```Step 1
+```
+Step 1
 Open your browser.
 Go to
 https://aws.amazon.com
@@ -72,7 +73,7 @@ Login to the AWS Console.
 You will see the AWS Management Console.
 ```
 
-##AWS Console Overview
+## AWS Console Overview
 Students should become familiar with these sections:
 Search Bar
 Used to search AWS services quickly.
@@ -151,7 +152,7 @@ Monitoring and logging service.
 SNS
 Notification service.
 
-Expected Output
+## Expected Output
 <img width="753" height="612" alt="Exp1 a" src="https://github.com/user-attachments/assets/34f8c6ea-e30e-4413-a2ef-21647320973e" />
 
 Result
